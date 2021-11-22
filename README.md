@@ -4,7 +4,7 @@
 
 Authenticate, connect and control any enterprise user to secured unstructured data, from any device, on any network to any on-prem or cloud repository in the world. FileFlex is the First Zero Trust Remote Data Access and Sharing Platform for Hybrid-IT Infrastructures. A secure overlay service that unifies remote access, sharing and governance of unstructured data storage across multiple environments using a Zero Trust Architecture. Zero trust is seen by many security leaders as a silver bullet, but it does not cover all aspects of threats and security, such as phishing and sensitive data protection. FileFlex extends Zero Trust Architecture to files and folders.
 
-1. **FileFlex and ForgeRock SSO SAML Integration**
+**FileFlex and ForgeRock SSO SAML Integration**
 
 A FileFlex Enterprise Server can integrate with a &quot;ForgeRock&quot; identity provider (IdP) to authorize user access from the endpoint using client software or web application (FileFlex client) to authenticate service access, assign security policies and log all user activities from session log on, to logoff.
 
