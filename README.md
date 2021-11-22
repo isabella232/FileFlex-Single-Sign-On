@@ -27,7 +27,7 @@ This documentation provides a tutorial on how to configure ForgeRock( as IDP) an
 * [Configuring FileFlex using ForgeRock Metadata](#configuring-fileflex-using-forgerock-metadata)
 * [Creating SP Application on ForgeRock](#creating-sp-application-on-forgerock)
 
-#Creating IDP application on ForgeRock
+# Creating IDP application on ForgeRock
 
 As a first step, you need to create IDP application on the ForgeRock interface.
 
@@ -73,7 +73,7 @@ This is explained in detail in ForgeRock documentation.
 
 curl --output metadata.xml &quot;[https://openam.example.com:8443/openam/saml2/jsp/exportmetadata.jsp?entityid=myHostedProvider&amp;realm=/mySubRealm](https://openam.example.com:8443/openam/saml2/jsp/exportmetadata.jsp?entityid=myHostedProvider&amp;realm=/mySubRealm)&quot;
 
-#Configuring FileFlex using ForgeRock Metadata
+# Configuring FileFlex using ForgeRock Metadata
 
 Login to FileFlex Server Admin console and naviagte to Control panel → Single Sign-On section and locate ForgeRock Section.
 
