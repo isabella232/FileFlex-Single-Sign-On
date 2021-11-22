@@ -1,4 +1,4 @@
-**FileFlex Zero Trust Data Access integration with ForgeRock SSO**
+# FileFlex Zero Trust Data Access integration with ForgeRock SSO
 
 ![](images/logo.png)
 
